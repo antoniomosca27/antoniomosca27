@@ -19,3 +19,8 @@ Every repository comes with automated tests, continuous integration and a reprod
 ### Tools
 
 Python (NumPy, SciPy, pandas, Numba, NetworkX, PyTorch, Qiskit) · pytest · GitHub Actions · LaTeX
+
+### Contact
+
+- Email: [antonio.mosca@unive.it](mailto:antonio.mosca@unive.it)
+- ORCID: [0009-0002-4023-4664](https://orcid.org/0009-0002-4023-4664)
