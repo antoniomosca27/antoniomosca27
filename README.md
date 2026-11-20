@@ -16,11 +16,6 @@ PhD student in Economics, with a BSc and an MSc in Physics. I use methods from s
 
 Every repository comes with automated tests, continuous integration and a reproducible pipeline.
 
-### Certifications
-
-- Advanced Topics in Derivatives Pricing, Columbia University
-- Applied Machine Learning in Python, University of Michigan
-
 ### Tools
 
 Python (NumPy, SciPy, pandas, Numba, NetworkX, PyTorch, Qiskit) · pytest · GitHub Actions · LaTeX
